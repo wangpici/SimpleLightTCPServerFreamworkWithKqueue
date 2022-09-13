@@ -1,0 +1,4 @@
+github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
+github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
+golang.org/x/sys v0.0.0-20220907062415-87db552b00fd h1:AZeIEzg+8RCELJYq8w+ODLVxFgLMMigSwO/ffKPEd9U=
+golang.org/x/sys v0.0.0-20220907062415-87db552b00fd/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
