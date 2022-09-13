@@ -1,0 +1,10 @@
+{
+  "Name":           "testServer",
+  "Host":           "192.168.1.105",
+  "TcpPort":        8999,
+  "Version":        "v0.4",
+  "MaxConn":        1000,
+  "MaxPackageSize": 4096,
+  "WorkPoolSize":   10,
+  "MaxWorkTaskLen": 1024
+}
